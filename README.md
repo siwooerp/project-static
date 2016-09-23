@@ -5,13 +5,14 @@
 **目录 (Table of Contents)**
 
 [TOCM]
-[说明文字](#user-content-plugin目录 PC端用插件)
+[说明文字](#user-content-plugin-date-picker)
 [TOC]
 
 
 ## plugin目录 PC端用插件
  
-#### plugin-date-picker 日期时间选择插件
+#### plugin-date-picker
+>   日期时间选择插件
 
 * 文件调用
    > css文件：http://ruhnnstatic.oss-cn-hangzhou.aliyuncs.com/plugin/plugin-date-picker/jquery.datetimepick.css
@@ -27,7 +28,8 @@
 <input type="text" data-module="time"></input>
 // 自动加载 时间
 ```
-#### plugin-form 表单用插件
+#### plugin-form
+>   表单用插件
 
 
 
