@@ -26,7 +26,9 @@ plugin-date-picker
 <input type="text" data-module="time"></input>
 // 自动加载 时间
 ```
-### plugin-form-select
+
+plugin-form-select
+=======
 >   表单下拉框格式化
 
 * 文件调用
