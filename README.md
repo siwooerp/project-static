@@ -13,7 +13,7 @@
    > js文件：http://ruhnnstatic.oss-cn-hangzhou.aliyuncs.com/plugin/plugin-date-picker/jquery.datetimepick.full.js
  
 * 例子代码：
-```javascript
+```html
 <input type="text" data-module="date"></input>
 // 自动加载 日期        
 <input type="text" data-module="datetime"></input>
