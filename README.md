@@ -14,12 +14,12 @@
  
 * 例子代码：
 ```
-    <input type="text" data-module="date"></input>
-    // 自动加载 日期        
-    <input type="text" data-module="datetime"></input>
-    // 自动加载 日期+时间
-    <input type="text" data-module="time"></input>
-    // 自动加载 时间
+<input type="text" data-module="date"></input>
+// 自动加载 日期        
+<input type="text" data-module="datetime"></input>
+// 自动加载 日期+时间
+<input type="text" data-module="time"></input>
+// 自动加载 时间
 ```
 2.    plugin-form
 
