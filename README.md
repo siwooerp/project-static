@@ -38,6 +38,7 @@ plugin-form-select
  
 * 例子代码：
 ```javascript
+// TODO:傅将华补充
 $('select').selectPicker();
 $('select').selectPicker({
     fieldValue:[option的value字段名],
