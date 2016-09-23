@@ -3,11 +3,12 @@
 
 
 
-## plugin目录 PC端用插件
+>   plugin目录 PC端用插件
 >   1.  [日期时间选择插件](#plugin-date-picker)
 >   1.  [下拉框选择插件](#plugin-form-select)
 >
-=========================
+>   popup 手机端用插件
+
 
 ### plugin-date-picker
 >   日期时间选择插件
@@ -48,4 +49,3 @@ $('select').selectPicker({
 
 
 
-## popup 手机端用插件
