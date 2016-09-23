@@ -2,15 +2,12 @@
 此文档是内部插件文档，详细说明所有内部插件的功能使用方法
 
 
-**目录 (Table of Contents)**
-
-[TOCM]
-[说明文字](#user-content-plugin-date-picker)
-[TOC]
-
 
 ## plugin目录 PC端用插件
- 
+>   1.  [日期时间选择插件](#plugin-date-picker)
+>   1.  [下拉框选择插件](#plugin-date-picker)
+
+
 #### plugin-date-picker
 >   日期时间选择插件
 
