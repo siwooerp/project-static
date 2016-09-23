@@ -3,7 +3,7 @@
 
 
 
- ## plugin目录 PC端用插件
+## plugin目录 PC端用插件
  
 1.    plugin-date-picker 日期时间选择插件
 
@@ -15,13 +15,13 @@
  
  * 例子代码：
 
->       <input type="text" data-module="date"></input>
->       // 自动加载 日期        
->       <input type="text" data-module="datetime"></input>
->       // 自动加载 日期+时间
->       <input type="text" data-module="time"></input>
->       // 自动加载 时间
-> 
+       <input type="text" data-module="date"></input>
+       // 自动加载 日期        
+       <input type="text" data-module="datetime"></input>
+        // 自动加载 日期+时间
+       <input type="text" data-module="time"></input>
+       // 自动加载 时间
+ 
 2.    plugin-form
 
 
