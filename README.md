@@ -5,11 +5,11 @@
 **目录 (Table of Contents)**
 
 [TOCM]
-[说明文字](#p1)
+[说明文字](#user-content-plugin目录 PC端用插件)
 [TOC]
 
 
-## <span id="p1">plugin目录 PC端用插件</span>
+## plugin目录 PC端用插件
  
 #### plugin-date-picker 日期时间选择插件
 
