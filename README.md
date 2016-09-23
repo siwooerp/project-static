@@ -6,9 +6,9 @@
 ## plugin目录 PC端用插件
 >   1.  [日期时间选择插件](#plugin-date-picker)
 >   1.  [下拉框选择插件](#plugin-form-select)
+=========================
 
-
-#### plugin-date-picker
+### plugin-date-picker
 >   日期时间选择插件
 
 * 文件调用
@@ -25,7 +25,7 @@
 <input type="text" data-module="time"></input>
 // 自动加载 时间
 ```
-#### plugin-form-select
+### plugin-form-select
 >   表单下拉框格式化
 
 * 文件调用
