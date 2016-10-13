@@ -6,7 +6,7 @@ project-static
 >   *  [日期时间选择插件](/plugin/plugin-date-picker/plugin-date-picker.md)
 >   *  [下拉框选择插件](/plugin/plugin-form/form.md)
 >
-> popup 手机端用插件 1
+> popup 手机端用插件 12
 
 
 
